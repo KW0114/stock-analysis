@@ -27,11 +27,11 @@ After the changes, here are the new runtimes:
 ![runtime screenshot](https://github.com/KW0114/stock-analysis/blob/7b438ea954e19b2c9dc332346dbabba31a7702bc/VBA_Challenge_2018.png)
 
 ## Summary
-*The biggest advantage of refactoring code is achieving a shorter runtime.
-*Many times, revisiting old code makes it much easier to see a more sophisticated way of solving the same problem.
-  *The only disadvantage I could see would be if you came up with an efficient solution the first time, and basically
+* The biggest advantage of refactoring code is achieving a shorter runtime.
+* Many times, revisiting old code makes it much easier to see a more sophisticated way of solving the same problem.
+  * The only disadvantage I could see would be if you came up with an efficient solution the first time, and basically
   you would just be wasting extra time trying to refine it for now reason.
-*Looking at the code for this project, it was definitely worth revisiting. This is a relatively small dataset, and having nested loops
+* Looking at the code for this project, it was definitely worth revisiting. This is a relatively small dataset, and having nested loops
 can created an exponential effect on runtime. The bigger the input, the more noticeable the lag in runtime would be.
 
 
